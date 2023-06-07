@@ -1,0 +1,12 @@
+org\szunigap\webapp\models\Curso.class
+org\szunigap\webapp\controllers\CursoFormServlet.class
+org\szunigap\webapp\controllers\BuscarServlet.class
+org\szunigap\webapp\controllers\CursoServlet.class
+org\szunigap\webapp\repositories\Repositorio.class
+org\szunigap\webapp\services\CursoServiceImpl.class
+org\szunigap\webapp\services\ServiceJdbException.class
+org\szunigap\webapp\controllers\CursoEliminarServlet.class
+org\szunigap\webapp\repositories\CursoRepositorioImpl.class
+org\szunigap\webapp\filter\ConexionFilter.class
+org\szunigap\webapp\services\CursoService.class
+org\szunigap\webapp\util\ConexionBaseDeDatos.class
