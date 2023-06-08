@@ -23,6 +23,11 @@ Este proyecto es un desafío que se planteo en el curso de Master Completo de Ja
 
 ## 📁 Acceso al proyecto 
 - Realizar un fork o descargar y descomprimir el archivo zip
+
+### Pequeña pantalla de lo que verás
+![Captura de pantalla 2023-03-23 130725](https://github.com/Saulzupe/Catalogo-Cursos/assets/62227970/4cd32fd8-a916-4720-879e-f3e768dea1f2)
+
+
 ## 🛠️ Abre y ejecuta el proyecto
 - Instalar el servidor Tomcat
 - recomiendo utilizar IntelliJ
